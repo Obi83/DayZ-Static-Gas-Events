@@ -25,7 +25,7 @@ You can copy/paste the full vanilla file or add the lines from the update.xml fi
 For RP and HCS Server i highly recommend mods which makes zombies more harder like @CJ187-HarderZombies or so and add some Horde of the Undead.
 
 This mod dont need a .pbo file or a key. Just copy/paste the files on your server and it will load in at every Server-Start. 
-
+Also how it works: https://community.bistudio.com/wiki/DayZ:Contaminated_Areas_Configuration
 
 You can adjust or edit every place if you want. there is one example file of how it works and how to setup an area on your own. 
 Also feel free to edit the amount of zombies in zombie-territories.xml to spawn in if server performance is a thing,
