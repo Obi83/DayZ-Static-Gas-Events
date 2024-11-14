@@ -25,3 +25,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+https://github.com/Obi83/
+or contact me over steam:
+https://steamcommunity.com/id/2HighScore/
