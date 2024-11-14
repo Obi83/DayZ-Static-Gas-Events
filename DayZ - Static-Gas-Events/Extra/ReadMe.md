@@ -17,7 +17,7 @@ or you can just pick the lines from the updatefile if you want.
 
 # zombie-territories.xml
 
-In this file you can find all the zombies which are added to the map. This file includes
+In this file you can find all the zombies are added to the map. This file includes
 all NBC Zombies i put in the areas i create.
 The normal zombies will all die of the gas so add enough zombies for those areas. 
 You can simple change the file. copy/paste it into your \mpmissions\dayzOffline.chernarusplus\env folder
