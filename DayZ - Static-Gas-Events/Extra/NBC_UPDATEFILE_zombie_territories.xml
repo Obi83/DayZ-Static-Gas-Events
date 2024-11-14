@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="1925774598">
+        <zone name="InfectedNBC" smin="8" smax="10" dmin="1" dmax="2" x="2148.21" z="3334.64" r="80"/>
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="2093.57" z="3510" r="80"/>
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="1915.71" z="3413.57" r="80"/>
+        <zone name="InfectedNBC" smin="8" smax="10" dmin="2" dmax="4" x="13683.3" z="11180" r="80"/>
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="6" x="10459" z="9140" r="50"/>    <!-- at Gorka Crossing --> 
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="6" x="10227" z="4012" r="50"/>    <!-- at Topolka Military Camp --> 
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="6" x="10473" z="2365" r="50"/>    <!-- at Electro MC --> 
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="6" x="7245" z="3030" r="50"/>     <!-- at Cherno MC --> 
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="10" x="4917" z="2516" r="50"/>     <!-- at Balota Airfield North --> 
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="10" x="5259" z="2222" r="50"/>     <!-- at Balota Airfield South --> 
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="6" x="7804" z="14789" r="50"/>    <!-- at Troitskoye MB North -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="6" x="7988" z="14652" r="50"/>    <!-- at Troitskoye MB South -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="10" x="1681" z="14335" r="50"/>    <!-- at Tisy MB North -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="8" x="1479" z="14435" r="50"/>    <!-- at Tisy Shootingrange -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="8" x="14345" z="13610" r="50"/>   <!-- at Tisy MB South Barracks -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="8" x="1539" z="13610" r="50"/>    <!-- at Tisy MB South -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="8" x="1707" z="14257" r="50"/>    <!-- at Tisy MB Mid -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="8" x="1552" z="14104" r="50"/>    <!-- at Tisy MB Industrial -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="8" x="1695" z="13925" r="50"/>    <!-- at Tisy MB Mid 2 -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="10" x="4548" z="8342" r="50"/>     <!-- at VMC North -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="8" x="4484" z="8154" r="50"/>     <!-- at VMC South -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="8" x="1181" z="7265" r="50"/>     <!-- at Mishkino Tents -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="11955" z="9141" r="50"/>    <!-- at West Berezino -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="8" x="4011" z="11852" r="50"/>    <!-- at Bashnya North -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="8" x="4001" z="11805" r="50"/>    <!-- at Bashnya Mid -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="6" x="741" z="1894" r="50"/>      <!-- at Tikhiyzaliv West -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="10447" z="5969" r="50"/>    <!-- at Staroye MC -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="8" dmax="10" x="2495" z="5089" r="50"/>    <!-- at Zelenogorsk MB -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="3703" z="5989" r="50"/>     <!-- at Green Mountain Camp -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="2713" z="6753" r="50"/>     <!-- at Pass Sosnovy Crossing -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="5789" z="3086" r="50"/>     <!-- at Visotovo Crossing -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="8" x="6237" z="7774" r="50"/>     <!-- at Stary Sobor MC -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="9562" z="11801" r="50"/>    <!-- at Novy Lug NorthEast -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="10917" z="13399" r="50"/>   <!-- at Ostry Camp North -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="13639" z="13758" r="50"/>   <!-- at Turovo Crossing -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="6" x="8526" z="13984" r="50"/>    <!-- at Camp Arsenovo -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="7098" z="14501" r="50"/>    <!-- at Kamensk East -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="7096" z="12697" r="50"/>    <!-- at Severograd West -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="4932" z="12990" r="50"/>    <!-- at Zaprudnoe MC -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="335" z="9373" r="50"/>      <!-- at Tri Kresta Camp -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="10" x="4487" z="9605" r="50"/>    <!-- at NWAF Hospital South -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="10" x="5317" z="9879" r="50"/>    <!-- at NWAF Shootingrange -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="8" x="5062" z="9723" r="50"/>     <!-- at NWAF Bunker South 2 -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="8" x="4783" z="10023" r="50"/>    <!-- at NWAF Bunker South -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="10" x="4751" z="10553" r="50"/>   <!-- at NWAF Industrial -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="10" x="4034" z="10508" r="50"/>   <!-- at NWAF Bunker North -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="6" dmax="10" x="4259" z="11088" r="50"/>   <!-- at NWAF North Barracks -->
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="6" x="3636" z="14919" r="50"/>    <!-- at Pobeda MC -->
+    </territory>
+</territory-type>

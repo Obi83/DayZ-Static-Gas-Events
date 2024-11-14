@@ -1,0 +1,30 @@
+// EXAMPLE - DO NOT USE .JSON WITH COMMENTS !!! 
+
+{ 	"AreaName": "Pobeda Military Camp", 			// Name to help differentiate in file but can also be used for debug
+		"Type": "ContaminatedArea_Static", 			// Class name of EffectArea derived class one wants to spawn
+		"TriggerType": "ContaminatedTrigger",		// Trigger type ( typename as a string ), leave empty if no trigger desired
+		"Data": { 
+			"Pos": [ 3636, 0, 14919 ],				// Position of anchor entity, if Y coordinate is non-zero, entity and first layer of particles will not be snapped to ground
+			"Radius": 100,							// Radius of zone
+			"PosHeight": 22,						// Height of cylinder area going up from anchor entity position
+			"NegHeight": 10,						// Height of cylinder area going down from anchor entity position
+			"InnerRingCount": 1,					// The amount of rings user wants inside of area ( does not include outer ring )
+			"InnerPartDist": 50,					// Distance, on a straight line, between two particle emitters on interior rings. If value is strictly superior to radius, NO rings will be spawned
+			"OuterRingToggle": 1, 					// Toggle if outer ring is desired ( if yes it will be an additional ring to the inner rings )
+			"OuterPartDist": 50, 					// Distance, on a straight line, between two particle emitters on most outside ring
+			"OuterOffset": 0, 						// The distance with the radius of area ( negative value will push outer ring OUTSIDE of radius )
+			"VerticalLayers": 0,					// The amount of vertical layers user wants to define ( in addition to ground level )
+			"VerticalOffset": 0,					// Offset between two vertical layers
+			"ParticleName": "graphics/particles/contaminated_area_gas_bigass"		// The name of the particle one wants to populate the area with
+			},
+		"PlayerData": {
+			"AroundPartName": "graphics/particles/contaminated_area_gas_around",	// The name of the "around" particle to spawn around player when in trigger -> requires trigger to do anything
+			"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",	// The name of the "tiny" particle to spawn around player when in trigger -> requires trigger to do anything
+			"PPERequesterType": "PPERequester_ContaminatedAreaTint"					// The typename of the Post Process Effect to apply on the player camera when inside the area
+		}
+	}
+
+
+
+	// You can check all the Stuff direct from Bohemia Interactive here: 
+	https://community.bistudio.com/wiki/DayZ:Contaminated_Areas_Configuration
